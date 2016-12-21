@@ -5,13 +5,13 @@
 }
 
 body {
-  background-color: #00FFFF;
+  background-color: #2D2D34;
 }
 
 .clock {
   height: 500px;
   width: 500px;
-  background-color: #E2DCDE;
+  background-color: #B97375;
   border-radius: 100%;
   border: 3px solid #AAAAAA;
   margin: auto;
